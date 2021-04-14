@@ -112,7 +112,7 @@ p {
   .card{
     flex-direction: column;
     transform: translate(-50%, -25%);
-    width: 90%;
+    width: 80%;
     min-width: 275px;
     padding-bottom: 40px;
   }
