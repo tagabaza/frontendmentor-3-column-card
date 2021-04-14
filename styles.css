@@ -85,6 +85,16 @@ p {
   width: 150px;
 }
 
+.btn:hover{
+  border: 2px solid white;
+  background-color: Transparent;
+  color: white;
+}
+
+.btn:active{
+  transform: translateY(4px);
+}
+
 .attribution{
   color: black;
 }
