@@ -41,33 +41,6 @@ Users should be able to:
 - Flexbox
 - Responsive Design
 
-### What I learned
-
-The primary lessons I took from completing this challenge revolved around the layouts and positioning of different elements. Figuring out the different ways of centering divs...
-
-```css
-.card{
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);,
-}
-```
-or adjusting layouts appropriately for varying screen sizes...
-```css
-@media screen and (max-width: 1000px) {
-  .card{
-    flex-direction: column;
-    transform: translate(-50%, -25%);
-    width: 80%;
-  }
-}
-```
-
-### Continued development
-
-A thought for the future for me is to possibly start building out websites with a mobile first strategy. I initially found it quite difficult to scale down my website layout to seamlessly change between screen sizes. I think that creating the layout for smaller screens first benefits me as a developer as it would be easier to refactor my code for bigger sizes. Plus it means that the user experience is consistent throughout.
-
 
 ### Useful resources
 
